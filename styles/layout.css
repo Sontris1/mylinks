@@ -1,0 +1,54 @@
+﻿/* DIV tags */
+body {
+	border-style: none;
+	border-color: inherit;
+	border-width: 0;
+	margin: 0;
+	padding: 0;
+background-image: url('file://psf/Home/Documents/My%20Web%20Sites/mysite3/images/20131010_085443.jpg');
+	height: 10px;
+}
+#container {
+	width: 660px;
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+}
+#masthead {
+	width: 660px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#iMenu {
+	width: 660px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#column_l {
+	position: relative;
+	float: left;
+	margin: 0;
+}
+#column_r {
+	position: relative;
+	float: left;
+	margin: 0;
+}
+#content {
+	width: 630px;
+	margin: 0;
+	padding: 15px;
+	border: 0;
+}
+#footer {
+	width: 100%;
+	overflow: auto;
+	clear: both;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
